@@ -1,4 +1,4 @@
-#! /bin/bash
-#date
-#time
-echo "pwd"/n   $command
+#! bin/bash 
+
+echo "pwd"
+$command

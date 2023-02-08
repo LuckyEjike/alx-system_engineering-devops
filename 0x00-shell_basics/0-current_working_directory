@@ -1,2 +1,4 @@
 #! /bin/bash
-Pwd /n
+#date
+#time
+echo "pwd"/n   $command
